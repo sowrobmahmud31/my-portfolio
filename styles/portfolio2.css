@@ -1,0 +1,14 @@
+#banner .banner-content p {
+    font-size: 18px;
+    color: #757575;
+    line-height: 30px;
+    margin-bottom: 30px;
+
+}
+#banner .banner-content{
+    max-width: 585px;
+}
+#banner .banner-image img{
+    max-width: 585px;
+    vertical-align: middle;
+}
